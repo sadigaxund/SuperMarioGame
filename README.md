@@ -1,73 +1,68 @@
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+# Super Mario by Sadig
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
-<!-- * [License](#license) -->
-
 
 ## General Information
 - Term Project
 - Course: Programming Principles 2 (Game Development)
-- Remake of the game of <strong href="https://en.wikipedia.org/wiki/Super_Mario_Bros." target="_blank">Super Mario Bros</strong>
+- Remake of the game of <a href="https://en.wikipedia.org/wiki/Super_Mario_Bros." target="_blank">Super Mario Bros</a>
 - No third-party library for collision detection, all coded in pure Java manually using various OOP concepts
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
 - Java (programming language)
-- <a href="https://cs.stanford.edu/people/eroberts/jtf/javadoc/student/" target="_blank">ACM Java Library</a>
+- <a href="https://cs.stanford.edu/people/eroberts/jtf/javadoc/student/" >ACM Java Library</a>
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Optimized Physics, Smooth movement
+- Custom Image animation, no gifs used
+- Easy to Design Levels
+- Customizable Weapons of Mario
+- Has almost everything original game has (except levels)
 
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+## Video
+Youtube Link: https://www.youtube.com/watch?v=L7nJP7ndM3I
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+Dependencies: 
+  - ACM Java Library
+  - Java SE 8 or above 
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in complete_. 
+Yes, I admit there are a lot of bugs to be fixed, and even more optimization to cleaning to do. However, in it's current state it satisfied the grading rubric provided by Instructor. Furthermore, I'm more than happy to help for improvement and further development.
 
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
+These are the features that were left unimplemented due to time, little bugs that slipped unchecked and small details that I would make to improve overall performance:
+  - Better data handling, everything is in Arraylist. For the map, it would be better to make a matrix then render it.
+  - Smoother world traversal.
+  - Better Sound handling.
+  - Background song was randomly chosen, attention required.
+  <br><h3>Bugs:</h3>
+  - Code for Pipe animation is glitchy, need to clean it (pun intended).
+  - Ending Animation glitchy, probably because hardcoded.
+  - Timer starts a new counter every time a new world is created.
+  <br><h3>TODO List:</h3> 
+  - Swimming mechanics
+  - There is a room for a World Editor. Everything need has already been implemented.
+  - More Entities
+  - More Weapons
+  - More Levels...
 
 
 ## Acknowledgements
@@ -78,11 +73,8 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact me!
+Email: sadigaxund+githubContact@gmail.com
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
