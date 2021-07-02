@@ -17,9 +17,9 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
+- Term Project
+- Course: Programming Principles 2 (Game Development)
+- Remake of the game of <strong>Super Mario Bros<strong>
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
