@@ -19,15 +19,14 @@
 ## General Information
 - Term Project
 - Course: Programming Principles 2 (Game Development)
-- Remake of the game of <strong>Super Mario Bros</strong>
+- Remake of the game of <strong href="https://en.wikipedia.org/wiki/Super_Mario_Bros." target="_blank">Super Mario Bros</strong>
 - No third-party library for collision detection, all coded in pure Java manually using various OOP concepts
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
 - Java (programming language)
-- ACM Java Library. <a href="Click to Visit">Click to Visit</a>
-- Tech 3 - version 3.0
+- <a href="https://cs.stanford.edu/people/eroberts/jtf/javadoc/student/" target="_blank">ACM Java Library</a>
 
 
 ## Features
