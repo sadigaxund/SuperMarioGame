@@ -1,0 +1,66 @@
+Blocks
+_____________
+case 1:
+addStableBlock();
+
+case 2:
+addNormalBrick();
+
+case 3:
+addBlueBrick();
+
+case 4:
+addEmptyBlock();
+
+case 5:
+addInvisibleQuestionBlock();
+
+case 6:
+addBrickyQuestionBlock();
+
+case 7:
+addNormalGround();
+
+case 8:
+addDarkGround();
+
+case 9:
+addQuestionBlock();
+____________________________________________________________________________________________________________________________________________________________
+Background objects:
+case 1:
+addSmallTree();
+
+case 2:
+addBigTree();
+
+case 3:
+addSmallHill();
+
+case 4:
+addLargeHill();
+
+case 5:
+addSingleCloud();
+
+case 6:
+addDoubleCloud();
+
+case 7:
+addTripleCloud();
+
+case 8:
+addSingleBush();
+
+case 9:
+addDoubleBush();
+
+case 10:
+addTripleBush();
+
+
+
+
+
+
+__________________________________________________________________________--
