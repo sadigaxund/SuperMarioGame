@@ -39,7 +39,6 @@ Dependencies:
   - ACM Java Library
   - Java SE 8 or above 
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
 ## Project Status
