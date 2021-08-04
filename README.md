@@ -18,7 +18,7 @@
 
 
 ## Technologies Used
-- Java (programming language)
+- Java SE 8(programming language)
 - <a href="https://cs.stanford.edu/people/eroberts/jtf/javadoc/student/" >ACM Java Library</a>
 
 
