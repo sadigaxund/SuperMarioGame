@@ -42,8 +42,8 @@ Dependencies:
 
 
 ## Project Status
-Project is: _in complete_. 
-Yes, I admit there are a lot of bugs to be fixed, and even more optimization to cleaning to do. However, in it's current state it satisfied the grading rubric provided by Instructor. Furthermore, I'm more than happy to help for improvement and further development.
+Project is: _complete_. 
+Yes, I admit there are a lot of bugs to be fixed, and even more optimization and cleaning to do. However, in it's current state it has satisfied the grading rubric provided by Instructor. Furthermore, I'm more than happy to help for improvement and further development.
 
 
 ## Room for Improvement
@@ -65,10 +65,8 @@ These are the features that were left unimplemented due to time, little bugs tha
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
+- This project was inspired by the game of Super Mario Bros. developed by Nintendo. 
+- Many thanks to Emil Abbasov for Instructing me while developing this project.
 
 
 ## Contact
