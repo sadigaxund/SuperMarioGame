@@ -18,8 +18,8 @@
 
 
 ## Technologies Used
-- Java SE 8(programming language)
-- <a href="https://cs.stanford.edu/people/eroberts/jtf/javadoc/student/" >ACM Java Library</a>
+- Java SE 8
+- <a href="https://cs.stanford.edu/people/eroberts/jtf/javadoc/student/" >ACM Graphics Library</a>
 
 
 ## Features
