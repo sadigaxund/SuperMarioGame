@@ -1,4 +1,16 @@
-# Super Mario by Sadig
+# Super Mario by Sadig Akhund
+
+![image](https://flat.badgen.net/github/stars/sadigaxund/SuperMarioGame)
+![image](https://flat.badgen.net/github/watchers/sadigaxund/SuperMarioGame)
+![image](https://flat.badgen.net/github/forks/sadigaxund/SuperMarioGame)
+![image](https://flat.badgen.net/github/issues/sadigaxund/SuperMarioGame)
+![image](https://flat.badgen.net/github/commits/sadigaxund/SuperMarioGame)
+![image](https://flat.badgen.net/github/branches/sadigaxund/SuperMarioGame)
+![image](https://flat.badgen.net/github/releases/sadigaxund/SuperMarioGame)
+![image](https://flat.badgen.net/github/license/sadigaxund/SuperMarioGame)
+![image](https://flat.badgen.net/github/contributors/sadigaxund/SuperMarioGame)
+
+
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -13,7 +25,7 @@
 ## General Information
 - Term Project
 - Course: Programming Principles 2 (Game Development)
-- Remake of the game of <a href="https://en.wikipedia.org/wiki/Super_Mario_Bros." target="_blank">Super Mario Bros</a>
+- Remake of the game of <a href="https://en.wikipedia.org/wiki/Super_Mario_Bros." target="_blank">`Super Mario Bros`</a>
 - No third-party library for collision detection, all coded in pure Java manually using various OOP concepts
 
 
