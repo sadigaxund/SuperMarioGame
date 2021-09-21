@@ -25,11 +25,12 @@
 
 
 ## :game_die: Features
-- Optimized Physics, Smooth movement
-- Custom Image animation, no gifs used
-- Easy to Design Levels
-- Customizable Weapons of Mario
-- Has almost everything original game has (except levels)
+- [x] Optimized Physics
+- [x] Smooth movement
+- [x] Custom Image animation, no gifs used
+- [x] Easy to Design Levels
+- [x] Customizable Weapons of Mario
+- [x] Has almost everything original game has (except levels)
 
 
 ## :tv: Video
