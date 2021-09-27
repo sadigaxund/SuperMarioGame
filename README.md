@@ -74,7 +74,7 @@ These are the features that were left unimplemented due to time, little bugs tha
 
 ## :email: Contact
 Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact me!
-Email: sadigaxund+githubContact@gmail.com
+Email: sadigaxund@gmail.com
 
 
 ## :scroll: License
