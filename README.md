@@ -73,8 +73,14 @@ These are the features that were left unimplemented due to time, little bugs tha
 
 
 ## :email: Contact
-Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact me!
-Email: sadigaxund@gmail.com
+Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact me!<br>
+
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/gmail.svg" />][mail]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/twitter.svg" />][twitter]
+<br>
 
 
 ## :scroll: License
@@ -82,8 +88,8 @@ Email: sadigaxund@gmail.com
 [MIT][license] © [Sadig Akhund][profile]
 
 
-[license]: /LICENSE
-[profile]: https://github.com/sadigaxund
+
+
 
 ## :briefcase: Check Out My Other Projects
 <dl>
@@ -123,4 +129,11 @@ Email: sadigaxund@gmail.com
     </a>
   </dd>
 </dl>
-  
+
+[website]: https://sakhund.netlify.app
+[twitter]: https://twitter.com/sadigaxund
+[youtube]: https://www.youtube.com/channel/UC2gQPeLhl99dIn_xDaWeVQA
+[linkedin]: https://www.linkedin.com/in/sakhund
+[mail]: mailto:sadigaxund@gmail.com?subject=Github
+[license]: /LICENSE
+[profile]: https://github.com/sadigaxund
