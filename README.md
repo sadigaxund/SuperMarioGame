@@ -37,7 +37,12 @@
 ## :tv: Demo
 Click <a href="https://www.youtube.com/watch?v=L7nJP7ndM3I" target="_blank">here</a> to see Demonstration video on YouTube.  
 
-![image](https://user-images.githubusercontent.com/48419889/139754171-21e28d22-a088-4906-98ab-fcef27813cee.png)
+![image](https://user-images.githubusercontent.com/48419889/139754171-21e28d22-a088-4906-98ab-fcef27813cee.png)  
+![image](https://user-images.githubusercontent.com/48419889/139754694-d4ddf726-f1b5-4f22-a909-6faa6d6a13ce.png)  
+![image](https://user-images.githubusercontent.com/48419889/139754914-b6bb6264-71ad-4106-a5a6-409aa117bafb.png)  
+![image](https://user-images.githubusercontent.com/48419889/139754993-36fea336-3824-4495-b88b-1de48b791aa5.png)
+
+
 
 ## :wrench: Setup
 Dependencies: 
