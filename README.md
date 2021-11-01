@@ -1,5 +1,6 @@
 # :video_game: Super Mario by Sadig Akhund
 
+
 ![image](https://flat.badgen.net/github/stars/sadigaxund/SuperMarioGame)
 ![image](https://flat.badgen.net/github/watchers/sadigaxund/SuperMarioGame)
 ![image](https://flat.badgen.net/github/forks/sadigaxund/SuperMarioGame)
@@ -33,9 +34,10 @@
 - [x] Has almost everything original game has (except levels)
 
 
-## :tv: Video
-Click <a href="https://www.youtube.com/watch?v=L7nJP7ndM3I" target="_blank">here</a> to see Demonstration video on YouTube.
+## :tv: Demo
+Click <a href="https://www.youtube.com/watch?v=L7nJP7ndM3I" target="_blank">here</a> to see Demonstration video on YouTube.  
 
+![image](https://user-images.githubusercontent.com/48419889/139754171-21e28d22-a088-4906-98ab-fcef27813cee.png)
 
 ## :wrench: Setup
 Dependencies: 
@@ -55,11 +57,11 @@ These are the features that were left unimplemented due to time, little bugs tha
   - Smoother world traversal.
   - Better Sound handling.
   - Background song was randomly chosen, attention required.
-  <br><h3>Bugs:</h3>
+  <br><h3>Known Bugs</h3>
   - Code for Pipe animation is glitchy, need to clean it (pun intended).
   - Ending Animation glitchy, probably because hardcoded.
   - Timer starts a new counter every time a new world is created.
-  <br><h3>TODO List:</h3> 
+  <br><h3>Whats Next?</h3> 
   - Swimming mechanics
   - There is a room for a World Editor. Everything need has already been implemented.
   - More Entities
@@ -72,15 +74,21 @@ These are the features that were left unimplemented due to time, little bugs tha
 - Many thanks to Emil Abbasov for Instructing me while developing this project.
 
 
-## :email: Contact
+## :speech_balloon: Contact
 Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact me!<br>
 
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/gmail.svg" />][mail]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mail" width="30px" onmouseover="this.width='35px'" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/gmail.svg" />][mail]
+[<img align="left" alt="linkedin" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="epic" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/stackoverflow.ico" />][stackoverflow]
+[<img align="left" alt="Portfolio" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png" />][website]
+[<img align="left" alt="eolymp" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/eolymp.ico" />][eolymp]
+[<img align="left" alt="hackerrank" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/hackerrank.ico" />][hackerrank]
+[<img align="left" alt="YouTube" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.svg" />][youtube]
+[<img align="left" alt="twitter" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/twitter.svg" />][twitter]
+[<img align="left" alt="epic" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/epic.svg" />][epic]
 <br>
+
+
 
 
 ## :scroll: License
@@ -130,6 +138,7 @@ Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact 
   </dd>
 </dl>
 
+
 [website]: https://sakhund.netlify.app
 [twitter]: https://twitter.com/sadigaxund
 [youtube]: https://www.youtube.com/channel/UC2gQPeLhl99dIn_xDaWeVQA
@@ -137,3 +146,8 @@ Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact 
 [mail]: mailto:sadigaxund@gmail.com?subject=Github
 [license]: /LICENSE
 [profile]: https://github.com/sadigaxund
+[vid]: https://www.youtube.com/watch?v=Gdro5uM6_o8
+[epic]: https://fortnitetracker.com/profile/all/Sakhund
+[eolymp]: https://www.e-olymp.com/en/users/Sakhund4634
+[hackerrank]: https://www.hackerrank.com/sakhund
+[stackoverflow]: https://stackoverflow.com/users/13595120/sadig-akhund
