@@ -1,4 +1,4 @@
-<h1 align = "center"> <img align="left" width="40px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/mario_mushroom.png"/> Super Mario Game<img align="right" alt="mail" width="40px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/mario_mushroom.png" /></h1> 
+<h1 align = "center"> <img align="left" width="55px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/mario.png"/><img align="center" width="40px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/mario_mushroom.png"/>  Super Mario Game  <img align="center" alt="mail" width="40px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/mario_mushroom.png" /><img align="right" alt="mail" width="40px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/mario_turtle.png" /></h1> 
 
 ![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/sadigaxund/SuperMarioGame?color=pink&include_prereleases&sort=date&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/sadigaxund/SuperMarioGame?color=blue&label=License&style=for-the-badge)
