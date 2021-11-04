@@ -1,16 +1,13 @@
-# :video_game: Super Mario by Sadig Akhund
+<h1 align = "center"> <img align="left" width="40px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/mario_mushroom.png"/> Super Mario <img align="right" alt="mail" width="40px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/mario_mushroom.png" /></h1> 
 
-
-![image](https://flat.badgen.net/github/stars/sadigaxund/SuperMarioGame)
-![image](https://flat.badgen.net/github/watchers/sadigaxund/SuperMarioGame)
-![image](https://flat.badgen.net/github/forks/sadigaxund/SuperMarioGame)
-![image](https://flat.badgen.net/github/issues/sadigaxund/SuperMarioGame)
-![image](https://flat.badgen.net/github/commits/sadigaxund/SuperMarioGame)
-![image](https://flat.badgen.net/github/branches/sadigaxund/SuperMarioGame)
-![image](https://flat.badgen.net/github/releases/sadigaxund/SuperMarioGame)
-![image](https://flat.badgen.net/github/license/sadigaxund/SuperMarioGame)
-![image](https://flat.badgen.net/github/contributors/sadigaxund/SuperMarioGame)
-
+![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/sadigaxund/SuperMarioGame?color=pink&include_prereleases&sort=date&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/sadigaxund/SuperMarioGame?color=blue&label=License&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/sadigaxund/supermariogame?color=blue&label=Commit&style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/sadigaxund/supermariogame?label=SIZE&style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/sadigaxund/supermariogame/total?color=blue&style=for-the-badge)
+![GitHub watchers](https://img.shields.io/github/watchers/sadigaxund/SuperMarioGame?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/sadigaxund/SuperMarioGame?style=for-the-badge)
+<br>
 
 
 ## :bulb: General Information
@@ -82,16 +79,6 @@ These are the features that were left unimplemented due to time, little bugs tha
 ## :speech_balloon: Contact
 Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact me!<br>
 
-[<img align="left" alt="mail" width="30px" onmouseover="this.width='35px'" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/gmail.svg" />][mail]
-[<img align="left" alt="linkedin" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="epic" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/stackoverflow.ico" />][stackoverflow]
-[<img align="left" alt="Portfolio" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/home.png" />][website]
-[<img align="left" alt="eolymp" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/eolymp.ico" />][eolymp]
-[<img align="left" alt="hackerrank" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/hackerrank.ico" />][hackerrank]
-[<img align="left" alt="YouTube" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/youtube.svg" />][youtube]
-[<img align="left" alt="twitter" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/twitter.svg" />][twitter]
-[<img align="left" alt="epic" width="30px" src="https://github.com/sadigaxund/GeneralRepo/blob/main/icons/epic.svg" />][epic]
-<br>
 
 
 
@@ -101,47 +88,6 @@ Created by [Sadig Akhund](https://github.com/sadigaxund) - feel free to contact 
 [MIT][license] © [Sadig Akhund][profile]
 
 
-
-
-
-## :briefcase: Check Out My Other Projects
-<dl>
-  <dd>
-    <a href="https://github.com/sadigaxund/SuperMarioGame">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sadigaxund&repo=SuperMarioGame" />
-    </a>
-  </dd>
-  
-  <dd>
-    <a href="https://github.com/sadigaxund/Haptic-Glove-Teleoperation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadigaxund&repo=Haptic-Glove-Teleoperation" />
-    </a>
-  </dd>
-   
-  <dd>
-    <a href="https://github.com/sadigaxund/EasyMetro">
-      <img  src="https://github-readme-stats.vercel.app/api/pin/?username=sadigaxund&repo=EasyMetro" />
-    </a>
-  </dd>
-    
-  <dd>
-    <a href="https://github.com/sadigaxund/Minesweeper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadigaxund&repo=Minesweeper" />
-    </a>
-  </dd>
-    
-  <dd>
-    <a href="https://bit.ly/3kuDNe1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadigaxund&repo=Game-Of-Life" />
-    </a>
-  </dd>   
-  
-  <dd>
-    <a href="https://github.com/sadigaxund/Math-and-Coding-Challanges">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=sadigaxund&repo=Math-and-Coding-Challanges" />
-    </a>
-  </dd>
-</dl>
 
 
 [website]: https://sakhund.netlify.app
