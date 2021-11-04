@@ -4,7 +4,6 @@
 ![GitHub](https://img.shields.io/github/license/sadigaxund/SuperMarioGame?color=blue&label=License&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sadigaxund/supermariogame?color=blue&label=Commit&style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/sadigaxund/supermariogame?label=SIZE&style=for-the-badge)
-![GitHub all releases](https://img.shields.io/github/downloads/sadigaxund/supermariogame/total?color=blue&style=for-the-badge)
 ![GitHub watchers](https://img.shields.io/github/watchers/sadigaxund/SuperMarioGame?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/sadigaxund/SuperMarioGame?style=for-the-badge)
 <br>
