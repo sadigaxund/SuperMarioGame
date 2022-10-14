@@ -14,6 +14,7 @@
 - Course: Programming Principles 2 (Game Development)
 - Remake of the game of <a href="https://en.wikipedia.org/wiki/Super_Mario_Bros." target="_blank">`Super Mario Bros`</a>
 - No third-party library for collision detection, all coded in pure Java manually using various OOP concepts
+- Works on Windows 10
 
 
 ## :computer: Technologies Used
